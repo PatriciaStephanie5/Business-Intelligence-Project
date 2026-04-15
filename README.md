@@ -12,7 +12,7 @@ A B2B sales team receives hundreds of leads monthly. Without enrichment and scor
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
@@ -39,7 +39,7 @@ leads_raw.csv  │────▶│            CLAY AUTOMATION               �
 
 ---
 
-## 📊 Key Business Insights & Executive Takeaways
+## Key Business Insights & Executive Takeaways
 
 ### 1. Focus on 12 "Hot" Leads First
 - **Finding:** 40% of the enriched leads (12/30) qualified as "Hot" based on revenue >$50M and employee count >500.
