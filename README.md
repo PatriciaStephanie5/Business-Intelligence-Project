@@ -1,7 +1,6 @@
 
 # B2B Lead Prioritization Engine with Clay & Tableau
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status: Completed](https://img.shields.io/badge/Project_Status-Simulated_/_Educational-brightgreen)
 
 ## 📌 Project Overview
