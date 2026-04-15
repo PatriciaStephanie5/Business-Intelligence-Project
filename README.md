@@ -3,7 +3,7 @@
 
 ![Status: Completed](https://img.shields.io/badge/Project_Status-Simulated_/_Educational-brightgreen)
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates an end-to-end **Business Intelligence (BI) pipeline** designed to help sales and marketing teams prioritize outreach efforts. Using **Clay.com** for no-code data enrichment and **Tableau** for interactive visualization, we transform a raw list of company names into a scored, actionable lead list with revenue potential and geographic insights.
 
@@ -63,3 +63,10 @@ leads_raw.csv  │────▶│            CLAY AUTOMATION               �
 
 ---
 
+### About the Author
+
+**Timba Patricia Stephanie**
+Business Intelligence Enthusiast | Data Storyteller
+GitHub: https://GitHub.com/PatriciaStephanie5
+
+> This project was completed as a simulated end-to-end BI workflow. All data is mock data for educational purposes
