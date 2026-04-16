@@ -1,0 +1,31 @@
+lead_id,company_name,website,contact_person,contact_email
+1,Acme Corporation,acmecorp.com,John Smith,john@acmecorp.com
+2,Globex Industries,globex.com,Jane Doe,jane@globex.com
+3,Initech,initech.com,Michael Bolton,mike@initech.com
+4,Soylent Corp,soylent.com,Robert Neville,rob@soylent.com
+5,Umbrella Corp,umbrellacorp.com,Alice Abernathy,alice@umbrella.com
+6,Wonka Industries,wonkaindustries.com,Charlie Bucket,charlie@wonka.com
+7,Stark Enterprises,starkenterprises.com,Pepper Potts,pepper@stark.com
+8,Wayne Corp,waynecorp.com,Bruce Wayne,bruce@waynecorp.com
+9,Cyberdyne Systems,cyberdyne.com,John Connor,john@cyberdyne.com
+10,Massive Dynamic,massivedynamic.com,Walter Bishop,walter@massivedynamic.com
+11,Pied Piper,piedpiper.com,Richard Hendricks,richard@piedpiper.com
+12,Hooli,hooli.com,Gavin Belson,gavin@hooli.com
+13,Bluth Company,bluthcompany.com,Michael Bluth,michael@bluth.com
+14,Dunder Mifflin,dundermifflin.com,Michael Scott,mscott@dundermifflin.com
+15,Vandelay Industries,vandelay.com,Art Vandelay,art@vandelay.com
+16,Los Pollos Hermanos,lospolloshermanos.com,Gus Fring,gus@lph.com
+17,Strickland Propane,stricklandpropane.com,Hank Hill,hank@strickland.com
+18,Aperture Science,aperturescience.com,Cave Johnson,cave@aperture.com
+19,Black Mesa,blackmesa.com,Gordon Freeman,gordon@blackmesa.com
+20,Abstergo Industries,abstergo.com,Warren Vidic,warren@abstergo.com
+21,Atlas Corp,atlas.com,Andrew Ryan,ryan@atlas.com
+22,Goliath National Bank,gnb.com,Barney Stinson,barney@gnb.com
+23,Monsters Inc,monstersinc.com,James P. Sullivan,sulley@monstersinc.com
+24,Pixar Animation,pixar.com,Ed Catmull,ed@pixar.com
+25,Stark Industries,stark.com,Obadiah Stane,obadiah@stark.com
+26,Stark Resilient,starkresilient.com,Happy Hogan,happy@starkresilient.com
+27,Stark Medical,starkmedical.com,Maya Hansen,maya@starkmedical.com
+28,Wayne Foundation,waynefoundation.org,Alfred Pennyworth,alfred@wayne.org
+29,Wayne Aerospace,wayneaero.com,Lucius Fox,l.fox@wayneaero.com
+30,Krypton Inc,kryptoninc.com,Clark Kent,clark@kryptoninc.com
