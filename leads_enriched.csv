@@ -1,0 +1,31 @@
+lead_id,company_name,website,contact_person,contact_email,Enrich company,Employee Count,Annual Revenue,Industry - Organization,City - Organization,State - Organization,Country - Organization,Linkedin Url - Organization,Lead Score
+1,Acme Corporation,acmecorp.com,John Smith,john@acmecorp.com,✅ ACME Furniture Inc.,120,75000000,wholesale,City of Industry,California,United States,http://www.linkedin.com/company/acme-furniture-inc.,Warm
+2,Globex Industries,globex.com,Jane Doe,jane@globex.com,✅ Prosspek,15,,marketing & advertising,Mexico City,Federal District,Mexico,http://www.linkedin.com/company/prosspekfv,Cold
+3,Initech,initech.com,Michael Bolton,mike@initech.com,✅ Initech,270,,information technology & services,,Seoul,South Korea,http://www.linkedin.com/company/initech,Cold
+4,Soylent Corp,soylent.com,Robert Neville,rob@soylent.com,✅ Soylent,43,30000000,food & beverages,Los Angeles,California,United States,http://www.linkedin.com/company/soylent,Cold
+5,Umbrella Corp,umbrellacorp.com,Alice Abernathy,alice@umbrella.com,❌ Could not find company,,,,,,,,Not Found
+6,Wonka Industries,wonkaindustries.com,Charlie Bucket,charlie@wonka.com,❌ Could not find company,,,,,,,,Not Found
+7,Stark Enterprises,starkenterprises.com,Pepper Potts,pepper@stark.com,✅ Stark Enterprises,270,47135000,real estate,Cleveland,Ohio,United States,http://www.linkedin.com/company/starkcle,Warm
+8,Wayne Corp,waynecorp.com,Bruce Wayne,bruce@waynecorp.com,✅ Wayne Corp,36,25009000,"health, wellness & fitness",Louisville,Kentucky,United States,http://www.linkedin.com/company/waynecorpca,Cold
+9,Cyberdyne Systems,cyberdyne.com,John Connor,john@cyberdyne.com,✅ Cyberdyne Systems Corporation,66,,research,Los Angeles,California,United States,http://www.linkedin.com/company/cyberdyne-systems-corporation,Cold
+10,Massive Dynamic,massivedynamic.com,Walter Bishop,walter@massivedynamic.com,✅ Massive Dynamic (UK) LTD,14,,information technology & services,Manchester,England,United Kingdom,http://www.linkedin.com/company/massive-dynamic-uk-ltd,Cold
+11,Pied Piper,piedpiper.com,Richard Hendricks,richard@piedpiper.com,✅ pied piper inc.,19,,information technology & services,Palo Alto,California,United States,http://www.linkedin.com/company/piedpiper,Cold
+12,Hooli,hooli.com,Gavin Belson,gavin@hooli.com,❌ Could not find company,,,,,,,,Not Found
+13,Bluth Company,bluthcompany.com,Michael Bluth,michael@bluth.com,❌ Could not find company,,,,,,,,Not Found
+14,Dunder Mifflin,dundermifflin.com,Michael Scott,mscott@dundermifflin.com,✅ Digital Peacock,4,,marketing & advertising,New York,New York,United States,http://www.linkedin.com/company/digital-peacock09,Cold
+15,Vandelay Industries,vandelay.com,Art Vandelay,art@vandelay.com,❌ Could not find company,,,,,,,,Not Found
+16,Los Pollos Hermanos,lospolloshermanos.com,Gus Fring,gus@lph.com,❌ Could not find company,,,,,,,,Not Found
+17,Strickland Propane,stricklandpropane.com,Hank Hill,hank@strickland.com,❌ Could not find company,,,,,,,,Not Found
+18,Aperture Science,aperturescience.com,Cave Johnson,cave@aperture.com,✅ Aperture Science,3,,hospital & health care,Bellevue,Washington,United States,http://www.linkedin.com/company/apsci,Cold
+19,Black Mesa,blackmesa.com,Gordon Freeman,gordon@blackmesa.com,✅ Black Mesa,5,,government administration,Dubai,Dubai,United Arab Emirates,http://www.linkedin.com/company/blackmesaglobal,Cold
+20,Abstergo Industries,abstergo.com,Warren Vidic,warren@abstergo.com,✅ Abstergo International,1,,information technology & services,Ouagadougou,Centre Region,Burkina Faso,http://www.linkedin.com/company/abstergo-international,Cold
+21,Atlas Corp,atlas.com,Andrew Ryan,ryan@atlas.com,✅ Atlas: AI Store & Page Builder,4,,information technology & services,Pune,Maharashtra,India,http://www.linkedin.com/company/atlas-ai-technology,Cold
+22,Goliath National Bank,gnb.com,Barney Stinson,barney@gnb.com,❌ Could not find company,,,,,,,,Not Found
+23,Monsters Inc,monstersinc.com,James P. Sullivan,sulley@monstersinc.com,❌ Could not find company,,,,,,,,Not Found
+24,Pixar Animation,pixar.com,Ed Catmull,ed@pixar.com,✅ Pixar Animation Studios,1200,600000000,animation,Emeryville,California,United States,http://www.linkedin.com/company/pixar-animation-studios,Hot
+25,Stark Industries,stark.com,Obadiah Stane,obadiah@stark.com,❌ Could not find company,,,,,,,,Not Found
+26,Stark Resilient,starkresilient.com,Happy Hogan,happy@starkresilient.com,❌ Could not find company,,,,,,,,Not Found
+27,Stark Medical,starkmedical.com,Maya Hansen,maya@starkmedical.com,❌ Could not find company,,,,,,,,Not Found
+28,Wayne Foundation,waynefoundation.org,Alfred Pennyworth,alfred@wayne.org,✅ Wayne County Community Foundation,0,,,Honesdale,Pennsylvania,United States,,Not Found
+29,Wayne Aerospace,wayneaero.com,Lucius Fox,l.fox@wayneaero.com,✅ Wayne Miniature Aeronautics,0,,,Goldsboro,North Carolina,United States,http://www.linkedin.com/company/wayne-miniature-aeronautics,Not Found
+30,Krypton Inc,kryptoninc.com,Clark Kent,clark@kryptoninc.com,✅ Krypton Consulting Inc,0,,,Newark,California,United States,,Not Found
