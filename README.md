@@ -2,6 +2,8 @@
 # B2B Lead Prioritization Engine with Clay & Tableau
 
 ![Status: Completed](https://img.shields.io/badge/Project_Status-Simulated_/_Educational-brightgreen)
+click the link below to view clay automation
+(https://app.clay.com/workspaces/1115655/workbooks/wb_0tdj316Yqay3mgiH6xm/tables/t_0tdj316FgFaKY2kwbB6/views/gv_0tdj316Q4Hyr8GGnCNx)
 
 ## Project Overview
 
