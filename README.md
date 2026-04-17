@@ -78,6 +78,6 @@ Clean, analyze, and visualize the dataset to identify revenue trends, top perfor
 ### About the Author
 
 **Timba Patricia Stephanie**
-Business Intelligence Enthusiast | Data Storyteller
+Junior GTM Data Analyst and Clay & Data Specialist
 GitHub: https://GitHub.com/PatriciaStephanie5
 
