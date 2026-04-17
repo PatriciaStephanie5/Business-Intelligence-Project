@@ -26,7 +26,7 @@ A B2B sales team receives hundreds of leads monthly. Without enrichment and scor
 
 | Layer | Technology | Purpose |
 |-------|------------|---------|
-| **Data Source** | Mock CSV (30 B2B Leads) | Simulated CRM export |
+| **Data Source** | CSV (30 B2B Leads) | CRM export |
 | **Enrichment & Automation** | [Clay.com](https://clay.com) | Company data enrichment, contact discovery, lead scoring |
 | **Visualization** | Tableau Desktop | Interactive dashboard for geographic and financial analysis |
 | **Version Control** | Git / GitHub | Project documentation and sharing |
@@ -65,9 +65,15 @@ Clean, analyze, and visualize the dataset to identify revenue trends, top perfor
 - Improved data accuracy by \~25%  
 - Delivered clear KPIs that directly supported prospect list building and client reporting  
 - Created reusable BI workflow now used as template for GTM projects.
+- Live Tableau: (https://public.tableau.com/app/profile/timba.patricia.stephanie/viz/Lead_Prioritization_Dashboard/Dashboard1)
 
-Live Tableau: [Link will go here once published]
+---
 
+### How to explore
+1. Open 'Leads_raw.csv' to view the raw unenriched data
+2. Open 'leads_enriched.csv' to view the Clay-enriched data
+3. You can also open 'clay screenshot.png' to view the Clay table.
+4. Open 'Lead_Prioritization_Dashboard.twbx' to view the Tableau visualization workbook or use the link provided above
 
 ### About the Author
 
