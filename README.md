@@ -11,6 +11,8 @@ click the link below to view clay automation
 
 End-to-end BI pipeline that transformed 10,000+ rows of raw sales transaction data into clean, actionable insights for a B2B sales intelligence & data consulting firm (Austin, Texas – remote analysts).
 
+---
+
 ### Business Impact
 - Improved data accuracy by \~25%  
 - Delivered monthly revenue/profit trends, conversion metrics, and prospect segmentation  
